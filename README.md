@@ -1,6 +1,6 @@
 <h1 align="center"><img src="hello-there-private-from-penguins-of-madagascar.gif" alt="nilashma"/><br> I'm Nilashma Saha</h1>
 <h3 align="center">Exploring the world of Web Development, Data Science and AI.</h3>
-
+<p dir="auto"><a href="#"><img width="100%" height="auto" src = "" style="max-width: 100%;"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilashmasaha&label=Profile%20views&color=0e75b6&style=flat" alt="nilashmasaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilashmasaha" alt="nilashmasaha" /></a> </p>
