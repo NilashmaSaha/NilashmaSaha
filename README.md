@@ -1,4 +1,4 @@
-<h1 align="center"><img src=""C:\Users\91933\Downloads\hello-there-private-from-penguins-of-madagascar.gif"" alt="nilashma"/><br> I'm Nilashma Saha</h1>
+<h1 align="center"><img src="hello-there-private-from-penguins-of-madagascar.gif" alt="nilashma"/><br> I'm Nilashma Saha</h1>
 <h3 align="center">Exploring the world of Web Development, Data Science and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilashmasaha&label=Profile%20views&color=0e75b6&style=flat" alt="nilashmasaha" /> </p>
